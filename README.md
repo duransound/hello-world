@@ -1,2 +1,3 @@
 # hello-world
-brand new. starting out. Go Warriors
+
+The Warriors are losing right now. Im mad. -_-
